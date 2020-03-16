@@ -1,6 +1,6 @@
 {
   "name": "i-utils-js",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "i-utils-js",
   "main": "lib/index.js",
   "scripts": {

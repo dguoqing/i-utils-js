@@ -1,9 +1,15 @@
 ## 关于i-utils-js
 
-
+[github地址](https://github.com/dguoqing/i-utils-js)
 
 #### 产生背景
 这是关于个人日常比较通用代码的收集，方便日后使用，编写文档为了以后方便查阅
+
+#### package.json命令
+发布到yarn(npm也可以下载)
+```bash
+npm run yarnp
+```
 
 #### 功能描述
 该方法一共包含以下属性，每个属性收集了对应的方法内容(详细API去源码中查看)
