@@ -53,7 +53,10 @@ checkType('i-utils-js')
 
 版本号|内容
 --|:--:
+v1.0.22|开发中...
+v1.0.21|修改README,增加API
 v1.0.20|DesignMode下增加Events发布订阅者模式
+...|...
 
 
 # API
