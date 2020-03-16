@@ -67,7 +67,7 @@ v1.0.20|DesignMode下增加Events发布订阅者模式
 ## GenericUtils
 属性|说明|类型
 --|:--:|:--:
-checkType|判断数据类型,参数一：要判断的类型，参数二：返回的类型字符串首字母是否为小写，默认false|any => string
+checkType|判断数据类型;data：要判断的类型;type：返回的类型字符串首字母是否为小写，默认false|(data:any, type:boolean) => string
 isFunc   |是否是函数  |any => boolean
 isObj    |是否是对象  |any => boolean
 isMap    |是否是字典  |any => boolean
