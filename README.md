@@ -43,5 +43,9 @@ IutilsJs.FnUtils.checkType('i-utils-js')
 按需引入
 ```js
 import { FnUtils } from 'i-utils-js'
-IutilsJs.FnUtils.checkType('i-utils-js')
+FnUtils.checkType('i-utils-js')
+//或者
+const { checkType } = FnUtils
+checkType('i-utils-js')
+
 
