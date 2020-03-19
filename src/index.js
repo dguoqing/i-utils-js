@@ -1,9 +1,9 @@
 import {
-    FnUtils
+    GenericUtils
 } from '../lib/index'
 const {
     deepClone
-} = FnUtils
+} = GenericUtils
 
 
 let obj = {
