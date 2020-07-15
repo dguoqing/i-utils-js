@@ -128,3 +128,6 @@ let a = {
 let bindMc = mc.myBind(my)
 bindMc.myCall(a)
 bindMc(1,2,3)
+
+
+///asdfsd
