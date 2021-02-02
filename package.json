@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server",
-    "yarnp":"yarn publish",
-    "p":"npm pulish"
+    "yarnp": "yarn publish",
+    "p": "npm pulish"
   },
   "keywords": [
     "js-utils",
